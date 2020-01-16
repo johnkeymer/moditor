@@ -41,8 +41,7 @@
 --------------------------------------------------------------------------------
   Original Development
 --------------------------------------------------------------------------------
-  John Keymer - (t) - https://twitter.com/keymer_john
-                (l) - https://www.linkedin.com/in/john-keymer/
+  John Keymer - (l) - https://www.linkedin.com/in/john-keymer/
                 
 --------------------------------------------------------------------------------
   Licence
